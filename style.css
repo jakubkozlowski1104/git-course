@@ -1,0 +1,14 @@
+body { 
+    background-color: red;
+    position: relative;
+    background-image: url(ballons.jpg);
+}
+
+body p {
+    display: block;
+    position: absolute;
+    font-size: 45px;
+    font-weight: 900;
+    top: 180px;
+    left: 50%;
+}
